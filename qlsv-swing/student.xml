@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+    <customer>
+    	<maKH>1</maKH>
+    	<maSP>1</maSP>
+    	<tenSP>1</tenSP>
+    	<giaBan>1</giaBan>
+    </customer>
+</customers>

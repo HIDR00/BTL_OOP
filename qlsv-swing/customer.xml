@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+    <customer>
+        <maKH>6</maKH>
+        <maSP>xyz567</maSP>
+        <tenSP>May Bay</tenSP>
+        <giaBan>3000</giaBan>
+        <soLuong>1</soLuong>
+    </customer>
+    <customer>
+        <maKH>7</maKH>
+        <maSP>123</maSP>
+        <tenSP>123</tenSP>
+        <giaBan>123</giaBan>
+        <soLuong>123</soLuong>
+    </customer>
+    <customer>
+        <maKH>7</maKH>
+        <maSP>432</maSP>
+        <tenSP>sad</tenSP>
+        <giaBan>123</giaBan>
+        <soLuong>123</soLuong>
+    </customer>
+    <customer>
+        <maKH>8</maKH>
+        <maSP>123</maSP>
+        <tenSP>423</tenSP>
+        <giaBan>342</giaBan>
+        <soLuong>123</soLuong>
+    </customer>
+    <customer>
+        <maKH>8</maKH>
+        <maSP>123</maSP>
+        <tenSP>123</tenSP>
+        <giaBan>123</giaBan>
+        <soLuong>123</soLuong>
+    </customer>
+    <customer>
+        <maKH>9</maKH>
+        <maSP>123</maSP>
+        <tenSP>213</tenSP>
+        <giaBan>123</giaBan>
+        <soLuong>321</soLuong>
+    </customer>
+</customers>
